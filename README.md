@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kushank
-- 👀 I’m interested in Java, kotlin, python, react, IOT, machine learning, AI, VR, web development
-- 🌱 I’m currently learning Java, Python, web development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Java, kotlin, python, react, IOT, machine learning, AI, VR, web development
+- 🌱 I’m currently learning ... Java, Python, web development
+- 💞️ I’m looking to collaborate on ... web development
 - 📫 How to reach me ... from my gmail "mistrykushank007@gmail.com"
 
 <!---
