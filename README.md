@@ -1,17 +1,45 @@
-Hi, I’m Kushank.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mistry Kushank
+======================================================================================================================================
+
 I'm currently looking for collaborate work for Android application development and web develpment.
-I can do backend, frontend and database work.
-Reach me from my gmail "mistrykushank007@gmail.com"
-Here is the detail of my other skills and knowledge...
+I can do backend and database work.
+---------------------
 
-- Programming Languages:-
+* ✉️  You can contact me at [mistrykushank007@gmail.com](mailto:mistrykushank007@gmail.com)
 
-      Java & Advance Java: Full knowledge.
-      C/C++: Intermediate knowledge.
-      HTML/CSS: Intermediate knowledge.
-      PHP: Intermediate knowledge.
-      Python: Currently learning.
-      JavaScript: Currently learning.
+<a href="https://www.github.com/kushank21140" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/kushank21140?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Skills
+
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>Intermediate knowledge <br><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>Intermediate knowledge<br><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>Full knowledge<br><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>Intermediate knowledge<br><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>Currently learning<br><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>Intermediate knowledge
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/kushank21140" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/kushank21140"><img src="https://github-readme-stats.vercel.app/api?username=kushank21140&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kushank21140's GitHub stats" /></a>
+
+<a href="http://www.github.com/kushank21140"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kushank21140&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/kushank21140"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=kushank21140&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/kushank21140" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushank21140&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br />
+
+Here is the detail of my other skills and experience...
+
 
 - App Development:-
 
@@ -24,74 +52,8 @@ Here is the detail of my other skills and knowledge...
       Frontend Development: no experience.
       Backend Development:  using PHP.
 
-- Data Structure:-
-
-      Basic Concepts of Data Structures
-			search algorithms
-			Stack and Queues
-			Linear and Non-Linear Data Structures
-			Stack
-			Queue
-			Linked List
-			Sorting and Hashing
-			Tree
-
-- Networking:-
-
-      - Network Basics:  
-            Information of communication Networks
-            Wireless cellular communication
-            GSM
-            GPRS
-            EDGE
-            UMTS
-            WCDMA
-            TD-SCDMA
-            RFID
-            Bluetooth
-            LTE
-            MANET
-            other IEEE technology.
-			
-			
-      -Network Security: 
-            Symmetric Cipher Model
-            Substitution technique
-            Diffie-Hellman key exchange algorithm
-            Transposition Technique, Stegnography
-            Euclidean Algorithm
-            DES
-            Fiestel Structure
-            Block Cipher model
-            Basic working of AES
-            OS security
-            MAC & Hash function
-            Network Security Application
-            Web Security
-            System Security.
-            
-            
-      -Network Protocols: 
-            Communication model, 
-            Trasmission modes,
-            Synchronous and asynchronous mode
-            Serial & Parallel communication
-            Analog modulation
-            network computing model
-            Circuit and packet switching
-            types of networks 
-            OSI & TCP/IP model
-            Multiplexing
-            media & standards of transmission of signals
-            IPv4
-            IPv6
-            UDP & TCP protocols
-            DNS.
-
 - Databases:
 
-    knowledge of Database System Architecture , E-R Model, DBMS/RDBMS, Relational Database design, along with
-    
       SQL.
       MySQL.
       MSSQL.
@@ -101,34 +63,11 @@ Here is the detail of my other skills and knowledge...
 - Operating Systems:
 
     Have almost full knowledge on how the OS works.
-
-      Types of operating system
-      OS process model & state
-      processor scheduling algorithm
-      Schedulers
-      Deadlocks(Prevention,Avoidance,Detection and recovery)
-      Memory management
-      Contiguous and Non-contiguous memory
-      File management 
-      Disk Organization 
-      file system security.
       
       Linux: Basic.
       Windows: Full.
 
-- Software Engineering:
 
-      Software Design: 
-            Waterfall/Incremental/RAD/Prototyping/Spiral models
-            SRS
-            DFD
-            Cohension & Coupling 
-            Data modeling concept 
-            LOC & FP
-            Empirical Estimation/Heuristic/Analytical Estimation techniques
-            Project Scheduling techniques
-            Risk management techniques
-            Testing.
 README.md: This file provides an overview of the repository and instructions for contributing.
 
 
