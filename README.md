@@ -1,11 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mistry Kushank
 ======================================================================================================================================
 
-I'm currently looking for collaborate work for Android application development and web develpment.
-I can do backend and database work.
+Aspiring Full-Stack Engineer (B.E. IT, Expected Jul 2026) with hands-on experience building web 
+applications using Angular frontend and integrating .NET Core REST APIs with MSSQL Server. 
+Contributed to a web application, including debugging, module integration and testing. Seeking an 
+internship or entry-level role to contribute to production-ready features.
 ---------------------
 
-* ✉️  You can contact me at [mistrykushank007@gmail.com](mailto:mistrykushank007@gmail.com)
+* ✉️  You can contact me at [kushankmistry@gmail.com](mailto:kushankmistry@gmail.com)
 
 <a href="https://www.github.com/kushank21140" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kushank21140?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
