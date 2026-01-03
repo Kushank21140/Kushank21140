@@ -85,19 +85,6 @@ I have worked on real-world modules involving **API development, debugging, work
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushank21140&show_icons=true&theme=dark" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushank21140&theme=dark" height="165"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushank21140&layout=compact&theme=dark"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 - 📧 **Email:** [kushankmistry@gmail.com](mailto:kushankmistry@gmail.com)  
