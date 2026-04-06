@@ -1,96 +1,78 @@
-# 👋 Hi, I’m Mistry Kushank
+# Hi there 👋, I'm Kushank Mistry
 
-🎓 **B.E. Information Technology** (Expected July 2026)  
-💻 **Aspiring Full-Stack Engineer** | Angular • .NET Core • SQL  
-📍 Ahmedabad, India  
+🎓 Aspiring Full-Stack Engineer (B.E. IT, Expected 2026)  
+💻 Passionate about building scalable web applications  
+🌱 Currently learning and exploring modern web technologies  
 
 ---
 
 ## 🚀 About Me
 
-Aspiring Full-Stack Engineer with hands-on experience building **production-ready web applications** using **Angular frontend** and **.NET Core REST APIs** integrated with **MSSQL Server**.
-
-I have worked on real-world modules involving **API development, debugging, workflow implementation, dashboards, and testing** during my internship. I am actively seeking an **internship or entry-level role** where I can contribute to scalable features and grow as a software engineer.
+- 🎯 Aspiring **Full-Stack Developer**
+- 🛠️ Experience in building web apps using **Angular** and backend integrations  
+- 📚 Strong foundation in **Information Technology & Software Development**
+- 💡 Interested in solving real-world problems through technology  
+- 🤝 Open to internships, collaborations, and learning opportunities  
 
 ---
 
-## 🛠️ Technical Skills
+## 🧰 Tech Stack
 
-### 💻 Programming Languages
-- Java  
-- JavaScript  
-- TypeScript  
-
-### 🌐 Web Technologies
+### 💻 Frontend
 - Angular  
-- React  
-- HTML5, CSS3  
+- HTML5  
+- CSS3  
+- JavaScript  
 
-### 🗄️ Databases
-- MySQL  
-- MSSQL Server  
-- MongoDB  
-- Firebase  
-- SQLite  
+### ⚙️ Backend
+- REST APIs  
+- Basic backend integration  
 
-### ⚙️ Backend & APIs
-- .NET Core (REST APIs)  
-- Node.js  
-- JWT Authentication  
-- Google OAuth  
+### 🛢️ Database
+- SQL / Relational Databases  
 
-### 🧠 Core CS Concepts
-- Object-Oriented Programming (OOP)  
-- Data Structures & Algorithms  
-- DBMS  
-- Computer Networks  
-- Operating Systems  
-
-### 🧰 Tools & Platforms
+### 🔧 Tools & Technologies
 - Git & GitHub  
+- VS Code  
 - Postman  
-- Firebase  
-- Playwright  
 
 ---
 
-## 💼 Experience
+## 📌 Projects
 
-### **Software Engineer Intern** — *Ascendum, Ahmedabad*  
-📅 **July 2025**
-
-- Developed **10+ RESTful APIs** using **.NET Core and SQL Server** for employee and ticket management modules  
-- Implemented an **Abscond Employee workflow** with manager initiation, HR review, and a 3-step email process  
-- Built a **Ticket Feedback & Rating system** to evaluate employees and identify top performers  
-- Created **data-driven dashboards and charts** for feedback and TAT analysis  
-- Contributed to debugging, module integration, and application testing  
+🔹 **Web Application Development**  
+- Built responsive web applications using Angular  
+- Integrated frontend with backend APIs  
+- Focused on performance and clean UI  
 
 ---
 
-## 📌 Projects & Hackathons
+## 📚 Education
 
-### 🏫 **School Management System** — *Project Lead (2025)*
-- Designed and developed a **full-stack web application** for managing classes, students, and faculty  
-- Implemented **role-based authentication** and dashboards  
-- Built secure APIs using **JWT authentication**  
-- Used **React, Redux, MongoDB**, and REST architecture  
-- Led a **team of 3 developers**
+🎓 Bachelor of Engineering in Information Technology  
+📅 Expected Graduation: MAY-2026  
 
 ---
 
-### 🏆 **SSIP State-Level Hackathon (2022)** — *Backend Developer*
-- Developed backend logic for an **online marriage registration system**  
-- Built APIs using **ASP.NET (C#)** with **SQLite** for data storage  
-- Collaborated in a **team of 8** to deliver a working solution within **24 hours**
+## 🌟 Goals
+
+- Become a proficient **Developer**  
+- Contribute to **open-source projects**  
+- Build impactful and scalable applications  
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect with Me
 
-- 📧 **Email:** [kushankmistry@gmail.com](mailto:kushankmistry@gmail.com)  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/kushank-mistry  
-- 🧑‍💻 **GitHub:** https://github.com/kushank21140  
+- 💼 LinkedIn: https://www.linkedin.com/in/kushank-mistry/  
+- 📧 Email: *kushankmistry@gamil.com*  
 
 ---
 
-⭐ *Open to internship and entry-level opportunities in Full-Stack / Backend / Frontend Development.*
+## ⚡ Fun Fact
+
+I enjoy learning new technologies and turning ideas into real-world applications 🚀  
+
+---
+
+⭐ *Feel free to check out my repositories and connect with me!*
